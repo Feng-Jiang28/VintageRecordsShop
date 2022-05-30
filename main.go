@@ -41,4 +41,5 @@ func getAlbums(c *gin.Context) {
 }
 
 // go get .
+
 // add dependency for your module. . means get dependencies for code in the current directory.
